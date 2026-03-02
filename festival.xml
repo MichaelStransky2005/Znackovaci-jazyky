@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<festival id="egf2026">
+    <metadata>
+        <name>EuroGoal Fest</name>
+        <year>2026</year>
+        <location>Praha, Strahov</location>
+        <startDate>2026-06-12</startDate>
+        <endDate>2026-06-14</endDate>
+    </metadata>
+
+    <venues>
+        <venue id="v1">
+            <name>Main Arena</name>
+            <capacity>15000</capacity>
+            <description>Centrální hřiště pro hlavní turnaje a finále.</description>
+        </venue>
+        <venue id="v2">
+            <name>Fan Zone Stage</name>
+            <capacity>5000</capacity>
+            <description>Pódium pro rozhovory, autogramiády a koncerty.</description>
+        </venue>
+        <venue id="v3">
+            <name>E-Sport Pavilion</name>
+            <capacity>1200</capacity>
+            <description>Hala pro turnaje ve hře EA Sports FC 26.</description>
+        </venue>
+        <venue id="v4">
+            <name>Tactics Hub</name>
+            <capacity>400</capacity>
+            <description>Přednáškový sál pro workshopy a taktické rozbory.</description>
+        </venue>
+    </venues>
+
+    <performers>
+        <performer id="p1"><name>Petr Čech</name><type>Legend</type><description>Brankářská ikona.</description></performer>
+        <performer id="p2"><name>Pavel Nedvěd</name><type>Legend</type><description>Držitel Zlatého míče.</description></performer>
+        <performer id="p3"><name>Tomáš Rosický</name><type>Legend</type><description>Malý Mozart.</description></performer>
+        <performer id="p4"><name>Jan Koller</name><type>Legend</type><description>Historicky nejlepší střelec repre.</description></performer>
+        <performer id="p5"><name>Antonín Panenka</name><type>Legend</type><description>Autor slavného dloubáku.</description></performer>
+        <performer id="p6"><name>Milan Baroš</name><type>Legend</type><description>Vítěz Ligy mistrů.</description></performer>
+        <performer id="p7"><name>Vladimír Šmicer</name><type>Legend</type><description>Štístko českého fotbalu.</description></performer>
+        <performer id="p8"><name>Patrik Berger</name><type>Legend</type><description>Hvězda Liverpoolu.</description></performer>
+        <performer id="p9"><name>Karel Poborský</name><type>Legend</type><description>Autor legendárního lobu.</description></performer>
+        <performer id="p10"><name>Tomáš Ujfaluši</name><type>Legend</type><description>El Capitán.</description></performer>
+        <performer id="p11"><name>Ivan Hašek</name><type>Coach</type><description>Současný trenér reprezentace.</description></performer>
+        <performer id="p12"><name>Zdeněk Zeman</name><type>Coach</type><description>Mistr ofenzivní taktiky.</description></performer>
+        <performer id="p13"><name>Jaroslav Šilhavý</name><type>Coach</type><description>Zkušený stratég.</description></performer>
+        <performer id="p14"><name>Pavel Vrba</name><type>Coach</type><description>Strojvůdce plzeňského zázraku.</description></performer>
+        <performer id="p15"><name>Vítězslav Lavička</name><type>Coach</type><description>Gentleman na lavičce.</description></performer>
+        <performer id="p16"><name>Sparta Praha U19</name><type>Team</type><description>Mládežnický výběr ACS.</description></performer>
+        <performer id="p17"><name>Slavia Praha U19</name><type>Team</type><description>Akademie sešívaných.</description></performer>
+        <performer id="p18"><name>Baník Ostrava Youth</name><type>Team</type><description>Naděje ze Slezska.</description></performer>
+        <performer id="p19"><name>Viktoria Plzeň Academy</name><type>Team</type><description>Západočeská líheň talentů.</description></performer>
+        <performer id="p20"><name>Slovan Liberec U19</name><type>Team</type><description>Severočeský výběr.</description></performer>
+        <performer id="p21"><name>Sigma Olomouc Youth</name><type>Team</type><description>Hanácká akademie.</description></performer>
+        <performer id="p22"><name>Bohemians 1905 U19</name><type>Team</type><description>Klokani z Vršovic.</description></performer>
+        <performer id="p23"><name>FK Jablonec Youth</name><type>Team</type><description>Mladí jablonečtí střelci.</description></performer>
+        <performer id="p24"><name>Hradec Králové U19</name><type>Team</type><description>Votroci v akci.</description></performer>
+        <performer id="p25"><name>Zbrojovka Brno Academy</name><type>Team</type><description>Mladé pušky z Moravy.</description></performer>
+        <performer id="p26"><name>Dukla Praha Youth</name><type>Team</type><description>Tradiční pražský klub.</description></performer>
+        <performer id="p27"><name>Mladá Boleslav U19</name><type>Team</type><description>Ambiciózní mladý tým.</description></performer>
+        <performer id="p28"><name>Slovácko Youth</name><type>Team</type><description>Tým z Uherského Hradiště.</description></performer>
+        <performer id="p29"><name>Teplice U19</name><type>Team</type><description>Severočeská naděje.</description></performer>
+        <performer id="p30"><name>Dynamo ČB Academy</name><type>Team</type><description>Jihočeský výběr.</description></performer>
+        <performer id="p31"><name>Karviná Youth</name><type>Team</type><description>Mladíci ze Slezska.</description></performer>
+        <performer id="p32"><name>Pardubice U19</name><type>Team</type><description>Východočeský talent.</description></performer>
+        <performer id="p33"><name>Opava Academy</name><type>Team</type><description>Slezský klub s historií.</description></performer>
+        <performer id="p34"><name>Zlín Youth</name><type>Team</type><description>Mladí ševci.</description></performer>
+        <performer id="p35"><name>Jihlava Academy</name><type>Team</type><description>Vysočinská naděje.</description></performer>
+        <performer id="p36"><name>Prostějov U19</name><type>Team</type><description>Moravský výběr.</description></performer>
+        <performer id="p37"><name>Vlašim Youth</name><type>Team</type><description>Středočeský tým.</description></performer>
+        <performer id="p38"><name>Chrudim U19</name><type>Team</type><description>Východočeský výběr.</description></performer>
+        <performer id="p39"><name>Táborsko Youth</name><type>Team</type><description>Jihočeský ambiciózní klub.</description></performer>
+        <performer id="p40"><name>Líšeň Academy</name><type>Team</type><description>Brněnský talent.</description></performer>
+        <performer id="p41"><name>Emerickson</name><type>Gamer</type><description>Pro-player Sparty.</description></performer>
+        <performer id="p42"><name>T9Laky</name><type>Gamer</type><description>Pro-player Slavie.</description></performer>
+        <performer id="p43"><name>Seron</name><type>Gamer</type><description>Špička české FIFA scény.</description></performer>
+        <performer id="p44"><name>Mára Hrdý</name><type>Influencer</type><description>Fotbalový YouTuber.</description></performer>
+        <performer id="p45"><name>Vojta Drahokoupil</name><type>Celebrity</type><description>Zpěvák a fanda fotbalu.</description></performer>
+        <performer id="p46"><name>Jaromír Bosák</name><type>Commentator</type><description>Legenda mikrofonu.</description></performer>
+        <performer id="p47"><name>Robert Záruba</name><type>Commentator</type><description>Moderátor diskusí.</description></performer>
+        <performer id="p48"><name>Luděk Mádl</name><type>Journalist</type><description>Investigativní novinář.</description></performer>
+        <performer id="p49"><name>Jan Podroužek</name><type>Journalist</type><description>Sportovní expert.</description></performer>
+        <performer id="p50"><name>Pavel Horváth</name><type>Legend</type><description>Bavič a tvůrce hry.</description></performer>
+        <performer id="p51"><name>DJ Sporty</name><type>Music</type><description>Rezidentní DJ festivalu.</description></performer>
+        <performer id="p52"><name>The Freestyle Kings</name><type>Show</type><description>Akrobaté s míčem.</description></performer>
+        <performer id="p53"><name>Tiky-Taka Team</name><type>Media</type><description>Tým televizní show.</description></performer>
+        <performer id="p54"><name>Petr Švancara</name><type>Legend</type><description>Mercedes z Brna.</description></performer>
+        <performer id="p55"><name>Jarmila Kratochvílová</name><type>Guest</type><description>Kondiční poradkyně.</description></performer>
+        <performer id="p56"><name>Refereee Team A</name><type>Officials</type><description>Profesionální rozhodčí.</description></performer>
+        <performer id="p57"><name>Physio Care</name><type>Health</type><description>Tým fyzioterapeutů.</description></performer>
+        <performer id="p58"><name>Data Scouts</name><type>Tech</type><description>Analytici datových přenosů.</description></performer>
+        <performer id="p59"><name>Foodies FC</name><type>Catering</type><description>Gastro tým festivalu.</description></performer>
+        <performer id="p60"><name>Security Guards</name><type>Staff</type><description>Zajištění bezpečnosti.</description></performer>
+    </performers>
+
+    <events>
+        <event id="e1"><title>Slavnostní výkop</title><performerRef id="p1"/><venueRef id="v1"/><startTime>2026-06-12T09:00:00</startTime><endTime>2026-06-12T10:00:00</endTime></event>
+        <event id="e2"><title>Autogramiáda Legend 1</title><performerRef id="p2"/><venueRef id="v2"/><startTime>2026-06-12T10:00:00</startTime><endTime>2026-06-12T11:30:00</endTime></event>
+        <event id="e3"><title>Turnaj skupina A - Sparta vs Slavia</title><performerRef id="p16"/><venueRef id="v1"/><startTime>2026-06-12T10:30:00</startTime><endTime>2026-06-12T12:00:00</endTime></event>
+        <event id="e4"><title>E-Sport kvalifikace den 1</title><performerRef id="p41"/><venueRef id="v3"/><startTime>2026-06-12T11:00:00</startTime><endTime>2026-06-12T15:00:00</endTime></event>
+        <event id="e5"><title>Workshop: Škola brankářů</title><performerRef id="p1"/><venueRef id="v4"/><startTime>2026-06-12T13:00:00</startTime><endTime>2026-06-12T14:30:00</endTime></event>
+        <event id="e6"><title>Freestyle Show</title><performerRef id="p52"/><venueRef id="v2"/><startTime>2026-06-12T14:00:00</startTime><endTime>2026-06-12T14:30:00</endTime></event>
+        <event id="e7"><title>Debata: Budoucnost repre</title><performerRef id="p11"/><venueRef id="v4"/><startTime>2026-06-12T15:00:00</startTime><endTime>2026-06-12T16:30:00</endTime></event>
+        <event id="e8"><title>Turnaj skupina B - Baník vs Plzeň</title><performerRef id="p18"/><venueRef id="v1"/><startTime>2026-06-12T15:30:00</startTime><endTime>2026-06-12T17:00:00</endTime></event>
+        <event id="e9"><title>DJ Set - Welcome Night</title><performerRef id="p51"/><venueRef id="v2"/><startTime>2026-06-12T18:00:00</startTime><endTime>2026-06-12T21:00:00</endTime></event>
+        <event id="e10"><title>Komentovaný přenos zápasu</title><performerRef id="p46"/><venueRef id="v2"/><startTime>2026-06-12T20:30:00</startTime><endTime>2026-06-12T22:30:00</endTime></event>
+        <event id="e11"><title>Turnaj skupina C - Olomouc vs Liberec</title><performerRef id="p21"/><venueRef id="v1"/><startTime>2026-06-12T12:00:00</startTime><endTime>2026-06-12T13:30:00</endTime></event>
+        <event id="e12"><title>Měření rychlosti střely</title><performerRef id="p4"/><venueRef id="v2"/><startTime>2026-06-12T11:00:00</startTime><endTime>2026-06-12T12:30:00</endTime></event>
+        <event id="e13"><title>FIFA: Výzva fanoušků</title><performerRef id="p43"/><venueRef id="v3"/><startTime>2026-06-12T15:00:00</startTime><endTime>2026-06-12T17:00:00</endTime></event>
+        <event id="e14"><title>Workshop: Sportovní data</title><performerRef id="p58"/><venueRef id="v4"/><startTime>2026-06-12T10:00:00</startTime><endTime>2026-06-12T11:00:00</endTime></event>
+        <event id="e15"><title>Autogramiáda Legend 2</title><performerRef id="p5"/><venueRef id="v2"/><startTime>2026-06-12T16:30:00</startTime><endTime>2026-06-12T18:00:00</endTime></event>
+        <event id="e16"><title>Turnaj skupina D - Brno vs Teplice</title><performerRef id="p25"/><venueRef id="v1"/><startTime>2026-06-12T17:00:00</startTime><endTime>2026-06-12T18:30:00</endTime></event>
+        <event id="e17"><title>Přednáška: Strava sportovce</title><performerRef id="p55"/><venueRef id="v4"/><startTime>2026-06-12T17:00:00</startTime><endTime>2026-06-12T18:00:00</endTime></event>
+        <event id="e18"><title>Turnaj skupina A - Slavia vs Bohemians</title><performerRef id="p17"/><venueRef id="v1"/><startTime>2026-06-12T18:30:00</startTime><endTime>2026-06-12T20:00:00</endTime></event>
+        <event id="e19"><title>Večerní studio Tiky-Taka</title><performerRef id="p53"/><venueRef id="v2"/><startTime>2026-06-12T21:00:00</startTime><endTime>2026-06-12T22:30:00</endTime></event>
+        <event id="e20"><title>Fyzio poradna - otevřeno</title><performerRef id="p57"/><venueRef id="v4"/><startTime>2026-06-12T09:00:00</startTime><endTime>2026-06-12T12:00:00</endTime></event>
+
+        <event id="e21"><title>Ranní rozcvička s hvězdou</title><performerRef id="p50"/><venueRef id="v1"/><startTime>2026-06-13T08:30:00</startTime><endTime>2026-06-13T09:30:00</endTime></event>
+        <event id="e22"><title>Čtvrtfinále 1</title><performerRef id="p56"/><venueRef id="v1"/><startTime>2026-06-13T10:00:00</startTime><endTime>2026-06-13T11:30:00</endTime></event>
+        <event id="e23"><title>Autogramiáda: Pavel Nedvěd</title><performerRef id="p2"/><venueRef id="v2"/><startTime>2026-06-13T11:00:00</startTime><endTime>2026-06-13T12:30:00</endTime></event>
+        <event id="e24"><title>E-Sport: Hlavní turnaj</title><performerRef id="p42"/><venueRef id="v3"/><startTime>2026-06-13T10:00:00</startTime><endTime>2026-06-13T18:00:00</endTime></event>
+        <event id="e25"><title>Workshop: Taktika s mistrem</title><performerRef id="p12"/><venueRef id="v4"/><startTime>2026-06-13T13:00:00</startTime><endTime>2026-06-13T14:30:00</endTime></event>
+        <event id="e26"><title>Čtvrtfinále 2</title><performerRef id="p56"/><venueRef id="v1"/><startTime>2026-06-13T12:00:00</startTime><endTime>2026-06-13T13:30:00</endTime></event>
+        <event id="e27"><title>Focení s trofejí</title><performerRef id="p60"/><venueRef id="v2"/><startTime>2026-06-13T14:00:00</startTime><endTime>2026-06-13T16:00:00</endTime></event>
+        <event id="e28"><title>Diskuse: Sportovní žurnalistika</title><performerRef id="p48"/><venueRef id="v4"/><startTime>2026-06-13T15:00:00</startTime><endTime>2026-06-13T16:00:00</endTime></event>
+        <event id="e29"><title>Čtvrtfinále 3</title><performerRef id="p56"/><venueRef id="v1"/><startTime>2026-06-13T15:00:00</startTime><endTime>2026-06-13T16:30:00</endTime></event>
+        <event id="e30"><title>Gastro show: Jídlo fotbalistů</title><performerRef id="p59"/><venueRef id="v2"/><startTime>2026-06-13T12:00:00</startTime><endTime>2026-06-13T13:00:00</endTime></event>
+        <event id="e31"><title>Čtvrtfinále 4</title><performerRef id="p56"/><venueRef id="v1"/><startTime>2026-06-13T17:00:00</startTime><endTime>2026-06-13T18:30:00</endTime></event>
+        <event id="e32"><title>YouTuber vs Fans zápas</title><performerRef id="p44"/><venueRef id="v1"/><startTime>2026-06-13T19:00:00</startTime><endTime>2026-06-13T20:30:00</endTime></event>
+        <event id="e33"><title>Večerní hudební show</title><performerRef id="p45"/><venueRef id="v2"/><startTime>2026-06-13T20:30:00</startTime><endTime>2026-06-13T22:00:00</endTime></event>
+        <event id="e34"><title>Analýza zápasů dne</title><performerRef id="p49"/><venueRef id="v4"/><startTime>2026-06-13T18:00:00</startTime><endTime>2026-06-13T19:00:00</endTime></event>
+        <event id="e35"><title>Historické momenty - kino</title><performerRef id="p5"/><venueRef id="v2"/><startTime>2026-06-13T22:00:00</startTime><endTime>2026-06-13T23:30:00</endTime></event>
+        <event id="e36"><title>FIFA Semi-finále</title><performerRef id="p41"/><venueRef id="v3"/><startTime>2026-06-13T18:30:00</startTime><endTime>2026-06-13T20:00:00</endTime></event>
+        <event id="e37"><title>Technika kopu s Panenkou</title><performerRef id="p5"/><venueRef id="v1"/><startTime>2026-06-13T14:00:00</startTime><endTime>2026-06-13T15:00:00</endTime></event>
+        <event id="e38"><title>Setkání s komentátory</title><performerRef id="p46"/><venueRef id="v4"/><startTime>2026-06-13T10:00:00</startTime><endTime>2026-06-13T11:30:00</endTime></event>
+        <event id="e39"><title>Slalom s míčem - soutěž</title><performerRef id="p52"/><venueRef id="v2"/><startTime>2026-06-13T16:00:00</startTime><endTime>2026-06-13T17:30:00</endTime></event>
+        <event id="e40"><title>Midnight Party</title><performerRef id="p51"/><venueRef id="v2"/><startTime>2026-06-13T23:30:00</startTime><endTime>2026-06-14T01:30:00</endTime></event>
+
+        <event id="e41"><title>Semifinále 1</title><performerRef id="p56"/><venueRef id="v1"/><startTime>2026-06-14T10:00:00</startTime><endTime>2026-06-14T11:30:00</endTime></event>
+        <event id="e42"><title>Semifinále 2</title><performerRef id="p56"/><venueRef id="v1"/><startTime>2026-06-14T12:00:00</startTime><endTime>2026-06-14T13:30:00</endTime></event>
+        <event id="e43"><title>Finále E-Sport Cup</title><performerRef id="p43"/><venueRef id="v3"/><startTime>2026-06-14T14:00:00</startTime><endTime>2026-06-14T16:00:00</endTime></event>
+        <event id="e44"><title>Odkaz 2004 - beseda</title><performerRef id="p6"/><venueRef id="v4"/><startTime>2026-06-14T11:00:00</startTime><endTime>2026-06-14T12:30:00</endTime></event>
+        <event id="e45"><title>Zápas o 3. místo</title><performerRef id="p56"/><venueRef id="v1"/><startTime>2026-06-14T15:00:00</startTime><endTime>2026-06-14T16:30:00</endTime></event>
+        <event id="e46"><title>Švancara Show</title><performerRef id="p54"/><venueRef id="v2"/><startTime>2026-06-14T13:30:00</startTime><endTime>2026-06-14T14:30:00</endTime></event>
+        <event id="e47"><title>VELKÉ FINÁLE FESTIVALU</title><performerRef id="p56"/><venueRef id="v1"/><startTime>2026-06-14T17:30:00</startTime><endTime>2026-06-14T19:30:00</endTime></event>
+        <event id="e48"><title>Předávání trofejí</title><performerRef id="p1"/><venueRef id="v1"/><startTime>2026-06-14T19:45:00</startTime><endTime>2026-06-14T20:30:00</endTime></event>
+        <event id="e49"><title>Rozloučení a Ohňostroj</title><performerRef id="p60"/><venueRef id="v1"/><startTime>2026-06-14T21:00:00</startTime><endTime>2026-06-14T21:30:00</endTime></event>
+        <event id="e50"><title>Dovednostní soutěže pro děti</title><performerRef id="p52"/><venueRef id="v2"/><startTime>2026-06-14T09:00:00</startTime><endTime>2026-06-14T11:00:00</endTime></event>
+        <event id="e51"><title>Beseda: Psychologie vítězů</title><performerRef id="p15"/><venueRef id="v4"/><startTime>2026-06-14T14:00:00</startTime><endTime>2026-06-14T15:00:00</endTime></event>
+        <event id="e52"><title>FIFA: Exhibition match</title><performerRef id="p41"/><venueRef id="v3"/><startTime>2026-06-14T11:00:00</startTime><endTime>2026-06-14T12:00:00</endTime></event>
+        <event id="e53"><title>Podepisování dresů</title><performerRef id="p4"/><venueRef id="v2"/><startTime>2026-06-14T15:00:00</startTime><endTime>2026-06-14T16:30:00</endTime></event>
+        <event id="e54"><title>Workshop: Regenerace</title><performerRef id="p57"/><venueRef id="v4"/><startTime>2026-06-14T10:00:00</startTime><endTime>2026-06-14T11:00:00</endTime></event>
+        <event id="e55"><title>Mini-turnaj sponzorů</title><performerRef id="p56"/><venueRef id="v1"/><startTime>2026-06-14T14:00:00</startTime><endTime>2026-06-14T15:00:00</endTime></event>
+        <event id="e56"><title>Kvíz o ceny</title><performerRef id="p47"/><venueRef id="v2"/><startTime>2026-06-14T12:00:00</startTime><endTime>2026-06-14T13:00:00</endTime></event>
+        <event id="e57"><title>Live Podcast EuroGoal</title><performerRef id="p48"/><venueRef id="v4"/><startTime>2026-06-14T16:00:00</startTime><endTime>2026-06-14T17:30:00</endTime></event>
+        <event id="e58"><title>Setkání s fanoušky - hosté</title><performerRef id="p10"/><venueRef id="v2"/><startTime>2026-06-14T18:00:00</startTime><endTime>2026-06-14T19:00:00</endTime></event>
+        <event id="e59"><title>E-Sport Afterparty</title><performerRef id="p51"/><venueRef id="v3"/><startTime>2026-06-14T20:00:00</startTime><endTime>2026-06-14T22:00:00</endTime></event>
+        <event id="e60"><title>Závěrečná tisková konference</title><performerRef id="p49"/><venueRef id="v4"/><startTime>2026-06-14T20:00:00</startTime><endTime>2026-06-14T21:00:00</endTime></event>
+    </events>
+</festival>
